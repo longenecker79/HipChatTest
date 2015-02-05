@@ -10,4 +10,4 @@ else if (hourNow > 12){
 }
 else if (hourNow > 0){
 	greeting = 'Good morning!'
-}
+};
